@@ -63,8 +63,6 @@ Running it
 Download or clone the repo.
 Open index.html in a modern desktop browser (Chrome, Edge, or Firefox work well).
 
-To host it on GitHub Pages, go to Settings → Pages and deploy from the main branch.
-
 Tech
 One HTML file with all JavaScript and CSS inline
 three.js r128 (cdnjs)
